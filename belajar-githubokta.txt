@@ -8,3 +8,6 @@ pull
 add
 clone
 dan menampilkan hasil praktek
+membuat project sistem informasi berbasis web
+menggunakan framework laravel
+testing 1
